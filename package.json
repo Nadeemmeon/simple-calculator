@@ -1,0 +1,20 @@
+{
+  "name": "nadeemsamana-simple-calculator",
+  "version": "1.0.2",
+  "description": "The Simple Calculator with node.js & inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadeem Memon",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "nadeemsamana-simple-calculator": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
